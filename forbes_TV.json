@@ -1,1 +1,23 @@
-{"name": "paid", "child": [{"name": "Big Bang Theory", "child": [{"name": "Jim Parsons", "value": 26.5, "category": "Big Bang Theory"}, {"name": "Johnny Galecki", "value": 25, "category": "Big Bang Theory"}, {"name": "Simon Helberg", "value": 23.5, "category": "Big Bang Theory"}, {"name": "Kunal Nayyar", "value": 23.5, "category": "Big Bang Theory"}, {"name": "Kaley Cuoco", "value": 24.5, "category": "Big Bang Theory"}, {"name": "Mayim Bialik", "value": 12, "category": "Big Bang Theory"}, {"name": "Melissa Rauch", "value": 12, "category": "Big Bang Theory"}]}, {"name": "Modern Family", "child": [{"name": "Ed O'Neill", "value": 14, "category": "Modern Family"}, {"name": "Eric Stonestreet", "value": 13.5, "category": "Modern Family"}, {"name": "Jesse Tyler Ferguson", "value": 13, "category": "Modern Family"}, {"name": "Ty Burrell", "value": 12, "category": "Modern Family"}, {"name": "Sofia Vergara", "value": 42.5, "category": "Modern Family"}, {"name": "Julie Bowen", "value": 12.5, "category": "Modern Family"}]}, {"name": "NCIS", "child": [{"name": "Mark Harmon", "value": 19, "category": "NCIS"}, {"name": "Pauley Perrette", "value": 8.5, "category": "NCIS"}]}, {"name": "The Walking Dead", "child": [{"name": "Andrew Lincoln", "value": 11, "category": "The Walking Dead"}]}, {"name": "Grey's Anatomy", "child": [{"name": "Ellen Pompeo", "value": 23.5, "category": "Grey's Anatomy"}]}, {"name": "Law & Order: SVU", "child": [{"name": "Mariska Hargitay", "value": 13, "category": "Law & Order: SVU"}]}, {"name": "Scandal", "child": [{"name": "Kerry Washington", "value": 11, "category": "Scandal"}]}, {"name": "Homeland", "child": [{"name": "Claire Danes", "value": 9, "category": "Homeland"}]}]}
+{
+  "name": "paid", 
+  "child": [{
+    "name": "Big Bang Theory", 
+    "child": [{
+      "name": "Jim Parsons", 
+      "value": 26.5, 
+      "category": "Big Bang Theory"
+    }, {
+      "name": "Johnny Galecki", 
+      "value": 25, 
+      "category": "Big Bang Theory"
+    }, {
+      "name": "Simon Helberg", 
+      "value": 23.5, 
+      "category": "Big Bang Theory"
+    }, {
+      "name": "Kunal Nayyar", 
+      "value": 23.5, 
+      "category": "Big Bang Theory"
+    }]
+  }]
+}
