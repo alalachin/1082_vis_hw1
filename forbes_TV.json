@@ -3,110 +3,106 @@
     "children": [{
                 "name": "The Big Bang Theory",
                 "children": [{
-                    "name": "Pebble Time - Awesome Smartwatch, No Compromises",
+                    "name": "Jim Parsons",
                     "category": "The Big Bang Theory",
-                    "value": "20338986"
+                    "value": "26.5"
                 }, {
-                    "name": "COOLEST COOLER: 21st Century Cooler that's Actually Cooler",
+                    "name": "Johnny Galecki",
                     "category": "The Big Bang Theory",
-                    "value": "13285226"
+                    "value": "25"
                 }, {
-                    "name": "Pebble 2, Time 2 + All-New Pebble Core",
+                    "name": "Simon Helberg",
                     "category": "The Big Bang Theory",
-                    "value": "12779843"
+                    "value": "23.5"
                 }, {
-                    "name": "Pebble: E-Paper Watch for iPhone and Android",
+                    "name": "Kunal Nayyar",
                     "category": "The Big Bang Theory",
-                    "value": "10266845"
+                    "value": "23.5"
                 }, {
-                    "name": "The World's Best TRAVEL JACKET with 15 Features || BAUBAX",
+                    "name": "Kaley Cuoco",
                     "category": "The Big Bang Theory",
-                    "value": "9192055"
+                    "value": "24.5"
                 }, {
-                    "name": "The Everyday Backpack, Tote, and Sling",
+                    "name": "Mayim Bialik",
                     "category": "The Big Bang Theory",
-                    "value": "6565782"
+                    "value": "12"
                 }, {
-                    "name": "Fidget Cube: A Vinyl Desk Toy",
+                    "name": "Melissa Rauch",
                     "category": "The Big Bang Theory",
-                    "value": "6465690"
-                }, {
-                    "name": "The Everyday Messenger: A Bag For Cameras & Essential Carry",
-                    "category": "The Big Bang Theory",
-                    "value": "4869472"
+                    "value": "12"
                 }]
             }, {
                 "name": "Modern Family",
                 "children": [{
-                    "name": "Exploding Kittens",
+                    "name": "Ed O'Neill",
                     "category": "Modern Family",
-                    "value": "8782571"
+                    "value": "14"
                 }, {
-                    "name": "Zombicide: Black Plague",
+                    "name": "Eric Stonestreet",
                     "category": "Modern Family",
-                    "value": "4079204"
+                    "value": "13.5"
                 }, {
-                    "name": "Dark Souls - The Board Game",
+                    "name": "Jesse Tyler Ferguson",
                     "category": "Modern Family",
-                    "value": "3771474"
+                    "value": "13"
                 }, {
-                    "name": "Massive Darkness",
+                    "name": "Ty Burrell",
                     "category": "Modern Family",
-                    "value": "3560642"
+                    "value": "12"
                 }, {
-                    "name": "Conan",
+                    "name": "Sofia Vergara",
                     "category": "Modern Family",
-                    "value": "3327757"
+                    "value": "42.5"
                 }, {
-                    "name": "Joking Hazard",
+                    "name": "Julie Bowen",
                     "category": "Modern Family",
-                    "value": "3246588"
+                    "value": "12.5"
                 }]
             }, {
                 "name": "NCIS",
                 "children": [{
-                    "name": "OUYA: A New Kind of Video Game Console",
+                    "name": "Mark Harmon",
                     "category": "NCIS",
-                    "value": "8596474"
+                    "value": "19"
                 }, {
-                    "name": "Oculus Rift: Step Into the Game",
+                    "name": "Pauley Perrette",
                     "category": "NCIS",
-                    "value": "2437429"
+                    "value": "8.5"
                 }]
             }, {
                 "name": "The Walking Dead",
                 "children": [{
-                    "name": "Shenmue 3",
+                    "name": "Andrew Lincoln",
                     "category": "The Walking Dead",
-                    "value": "6333295"
+                    "value": "11"
                 }]
             }, {
                 "name": "Grey's Anatomy",
                 "children": [{
-                    "name": "Pono Music - Where Your Soul Rediscovers Music",
+                    "name": "Ellen Pompeo",
                     "category": "Grey's Anatomy",
-                    "value": "6225354"
+                    "value": "23.5"
                 }]
             }, {
                 "name": "Law & Order: SVU",
                 "children": [{
-                    "name": "Bring Back MYSTERY SCIENCE THEATER 3000",
+                    "name": "Mariska Hargitay",
                     "category": "Law & Order: SVU",
-                    "value": "5764229"
+                    "value": "13"
                 }]
             }, {
                 "name": "Scandal",
                 "children": [{
-                    "name": "The Veronica Mars Movie Project",
+                    "name": "Kerry Washington",
                     "category": "Scandal",
-                    "value": "5702153"
+                    "value": "11"
                 }]
             }, {
                 "name": "Homeland",
                 "children": [{
-                    "name": "Bring Reading Rainbow Back for Every Child, Everywhere!",
+                    "name": "Claire Danes",
                     "category": "Homeland",
-                    "value": "5408916"
+                    "value": "9"
                 }]
             }
       ]
